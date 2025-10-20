@@ -5,7 +5,7 @@ To activate/deactivate the program press right shift, an audio queue will play u
 
 ### Installation
 ```bash
-pip install keyboard
+pip install keyboard pygetwindow
 ```
 
 ### Usage
